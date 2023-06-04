@@ -1,0 +1,69 @@
+p {
+  font-family: Roboto;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-weight: 400px;
+}
+
+.video-title {
+  font-weight: bold;
+  font-size: 18px;
+  width: 284px;
+  line-height: 24px;
+  margin-bottom: 2px;
+  margin-block-end: 2px;
+}
+
+.P2 {
+  font-size: 13px;
+  color: #606060;
+  margin-bottom: 16px;
+}
+
+.name {
+  color: #606060;
+  font-size: 14px;
+}
+
+.P3 {
+
+  color: rgb(96, 96, 96);
+  display: block;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  margin-top: 16px;
+  width: 284px;
+  margin-bottom: 100px;
+}
+
+.P4 {
+  color: white;
+  background-color: rgb(227, 65, 64);
+  margin-block-end: 16px;
+  margin-block-start: 0px;
+  margin-bottom: 16px;
+  margin-inline-end: 8px;
+  margin-inline-start: 8px;
+  margin-left: 8px;
+  margin-right: 8px;
+  margin-top: 0px;
+  text-align: center;
+  line-height: 21px;
+  box-sizing: border-box;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-left: 16px;
+  padding-right: 16px;
+
+}
+
+.Shop {
+margin-left: 3px;
+}
+
+.Shop:hover {
+  text-decoration: underline;
+  cursor: pointer;
+  transition: .2s;
+}
